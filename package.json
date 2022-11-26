@@ -1,0 +1,14 @@
+{
+  "name": "mochazipcodevalidation",
+  "version": "1.0.0",
+  "description": "Test validation function for the zipe code form field",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.3.6"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Brandon Treu",
+  "license": "ISC"
+}
